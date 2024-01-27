@@ -15,6 +15,11 @@ main (){
   // string  concatenation
   String s2="John ";
   print(s1 + s2);
+  //string interpolation
+  String country ="Japan";
+  print(  "I live in $country");
+  print ("I have $firstNo apples and ${secondNo} oranges.");
+  print("the sum  of two numbers 5 & 8 is ${5+8}");
 
   print(five);
   print(pi);
