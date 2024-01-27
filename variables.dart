@@ -12,6 +12,9 @@ main (){
    print("my name is stephen");
   String s1 =" Adams";
   print(s1);
+  // string  concatenation
+  String s2="John ";
+  print(s1 + s2);
 
   print(five);
   print(pi);
