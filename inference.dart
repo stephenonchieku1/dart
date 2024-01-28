@@ -7,4 +7,6 @@ main(){
   print(bookTitle);
   print(bookAuthor);
   print(bookNoOfPages);
+  print(bookTitle.runtimeType);
+  print(bookNoOfPages.runtimeType);
 }
