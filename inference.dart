@@ -9,4 +9,13 @@ main(){
   print(bookNoOfPages);
   print(bookTitle.runtimeType);
   print(bookNoOfPages.runtimeType);
+
+  num number = 3;
+  print(number);
+
+  number = 3.2;
+  print(number);
+
+
+
 }
