@@ -16,4 +16,14 @@ main() {
   print(--age);
   var num1 = 8;
   print(--num1);
+  //postfix -- the compiler first prints the variable before  it decrements it by 1
+
+  var postfixDecrement = 15;
+  print(postfixDecrement--);
+  print(postfixDecrement);
+
+  //postfix ++ the compiler prints the variable before incrementing it by 1
+  var postfixincrement = 20;
+  print(postfixincrement--);
+  print(postfixincrement);
 }
