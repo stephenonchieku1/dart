@@ -12,4 +12,8 @@ main() {
   //increment operator
   var age = 5;
   print(++age);
+  //decrement operaator
+  print(--age);
+  var num1 = 8;
+  print(--num1);
 }
