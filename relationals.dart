@@ -9,5 +9,11 @@ void main(List<String> args) {
   var age1 = 17;
   var age2 = 10;
   print(age1 == age2);
-   print(age1 != age2);
+  print(age1 != age2);
+  // equality operators can be used on non-intergrals
+  //such as strings
+  var name = "steve";
+  var dad = "sam";
+  print(name == dad);
+  print(name != dad);
 }
