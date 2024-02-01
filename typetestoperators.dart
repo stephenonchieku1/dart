@@ -13,7 +13,7 @@ void main(List<String> args) {
 
   // is operator
   double type1 = 5.0;
-  int type2 = 87;
+ 
   
   
 
