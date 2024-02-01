@@ -18,7 +18,7 @@ void main(List<String> args) {
   bool type4 = true;
 
   print(type1 is int);
-  print(type2 is int);
+  
 
 
 
