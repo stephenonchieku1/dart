@@ -17,7 +17,7 @@ void main(List<String> args) {
   String type3 = "educative";
   bool type4 = true;
 
-  print(type1 is int);
+
   
 
 
