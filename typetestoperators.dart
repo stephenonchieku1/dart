@@ -10,17 +10,5 @@ void main(List<String> args) {
   print(type3 is String);
   print(type4 is double);
   print(type4 is! double);
-
-  // is operator
-  double type1 = 5.0;
- 
-  
-  
-
-
-  
-
-
-
   
 }
