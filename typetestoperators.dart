@@ -21,7 +21,6 @@ void main(List<String> args) {
   print(type2 is int);
   print(type3 is String);
   print(type4 is double);
-  print(type4 is! double);
-  
+
   
 }
