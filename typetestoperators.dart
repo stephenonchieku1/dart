@@ -19,7 +19,7 @@ void main(List<String> args) {
 
   print(type1 is int);
   print(type2 is int);
-  print(type3 is String);
+
 
 
   
